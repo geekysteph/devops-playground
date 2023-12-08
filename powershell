@@ -1,0 +1,2 @@
+#Powershell script to prep window server install
+get-windowsfeature
